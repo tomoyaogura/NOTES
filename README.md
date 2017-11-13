@@ -1,3 +1,8 @@
+# Personal Setup
+Emmet/ Typescript installation on sublime
+Augry
+
+
 # Unix
 ## Chapter 1
 ### Commands
